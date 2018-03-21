@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">First Day Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="hint_button">Hint</string>
+    <string name="question_text1">1. Does it take 3 licks to get to the center of a tootsie pop?</string>
+    <string name="question_text2">2. Jupiter has 13 moons.</string>
+    <string name="question_text3">3. Whale sharks are of the Mammal class.</string>
+    <string name="question_text4">4. Skin is the largest organ of the body.</string>
+    <string name="question_text5">5. Penuts grow on trees.</string>
+    <string name="question_text6">6. Is Fortnite the most played game for 2018?</string>
+    <string name="correct_toast">CORRECT!</string>
+    <string name="false_toast">WRONG!</string>
+    <string name="name_button">Enter</string>
+    <string name="next_button">Next</string>
+    <string name="rand_button">Random Question</string>
+    <string name="back_button">Back</string>
+    <string name="hint_text1">1. The world may never know.</string>
+    <string name="hint_text2">2. If it has 13 then does that make it unlucky?</string>
+    <string name="hint_text3">3. Does it give live birth?</string>
+    <string name="hint_text4">4. The more you eat, the larger it gets.</string>
+    <string name="hint_text5">5. Beans are a legume.</string>
+    <string name="hint_text6">6. This game is on all gaming platforms.</string>
+    <string name="score_text">This quiz is scored...</string>
+    <string name="warning_text">Are you really sure you want to cheat bro?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button_text">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong, you\'re a horrible human being for doing so.</string>
+
+</resources>
