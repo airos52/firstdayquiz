@@ -6,9 +6,9 @@
     <string name="question_text1">1. Does it take 3 licks to get to the center of a tootsie pop?</string>
     <string name="question_text2">2. Jupiter has 13 moons.</string>
     <string name="question_text3">3. Whale sharks are of the Mammal class.</string>
-    <string name="question_text4">4. Skin is the largest organ of the body.</string>
-    <string name="question_text5">5. Penuts grow on trees.</string>
-    <string name="question_text6">6. Is Fortnite the most played game for 2018?</string>
+    <string name="question_text4">4. Skin is the largest organ of the human body.</string>
+    <string name="question_text5">5. Peanuts grow on trees.</string>
+    <string name="question_text6">6. Fortnite is the most played game for 2018?</string>
     <string name="correct_toast">CORRECT!</string>
     <string name="false_toast">WRONG!</string>
     <string name="name_button">Enter</string>
@@ -25,6 +25,7 @@
     <string name="warning_text">Are you really sure you want to cheat bro?</string>
     <string name="show_answer_button">Show Answer</string>
     <string name="cheat_button_text">Cheat!</string>
-    <string name="judgement_toast">Cheating is wrong, you\'re a horrible human being for doing so.</string>
+    <string name="judgement_toast">Cheating is wrong, you\'re getting no points for this quesiton.</string>
+    <string name="already_answered_toast">"You already answered - There are no second chances!"</string>
 
 </resources>
